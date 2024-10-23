@@ -1,0 +1,11 @@
+C:\Users\lauta\source\repos\Guia7\Guia7\Guia7\obj\Debug\Guia7.csproj.AssemblyReference.cache
+C:\Users\lauta\source\repos\Guia7\Guia7\Guia7\obj\Debug\Guia7.Properties.Resources.resources
+C:\Users\lauta\source\repos\Guia7\Guia7\Guia7\obj\Debug\Guia7.csproj.GenerateResource.cache
+C:\Users\lauta\source\repos\Guia7\Guia7\Guia7\obj\Debug\Guia7.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Guia7\Guia7\Guia7\bin\Debug\Guia7.exe.config
+C:\Users\lauta\source\repos\Guia7\Guia7\Guia7\bin\Debug\Guia7.exe
+C:\Users\lauta\source\repos\Guia7\Guia7\Guia7\bin\Debug\Guia7.pdb
+C:\Users\lauta\source\repos\Guia7\Guia7\Guia7\obj\Debug\Guia7.Form1.resources
+C:\Users\lauta\source\repos\Guia7\Guia7\Guia7\obj\Debug\Guia7.Models.FormVer.resources
+C:\Users\lauta\source\repos\Guia7\Guia7\Guia7\obj\Debug\Guia7.exe
+C:\Users\lauta\source\repos\Guia7\Guia7\Guia7\obj\Debug\Guia7.pdb
